@@ -106,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/Queue.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#173#185#0" expanded="true" />
               </folding>
@@ -141,6 +141,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -172,6 +175,7 @@
     <option name="width" value="696" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -241,12 +245,12 @@
       <updated>1557319790072</updated>
       <workItem from="1557319792593" duration="4932000" />
       <workItem from="1557369188617" duration="10496000" />
-      <workItem from="1557636288199" duration="7096000" />
+      <workItem from="1557636288199" duration="7481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22524000" />
+    <option name="totallyTimeSpent" value="22909000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,7 +409,7 @@
     <entry file="file://$PROJECT_DIR$/Queue.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#173#185#0" expanded="true" />
           </folding>
