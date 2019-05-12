@@ -24,7 +24,7 @@
     <session id="-1429615504">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="4" />
@@ -131,9 +131,9 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="871" />
+    <option name="x" value="433" />
     <option name="y" value="23" />
-    <option name="width" value="809" />
+    <option name="width" value="1247" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -221,18 +221,17 @@
       <workItem from="1554996305031" duration="252000" />
       <workItem from="1554996695855" duration="2200000" />
       <workItem from="1556899103112" duration="757000" />
-      <workItem from="1557649918190" duration="847000" />
+      <workItem from="1557649918190" duration="1076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4056000" />
+    <option name="totallyTimeSpent" value="4285000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="871" y="23" width="809" height="970" extended-state="0" />
-    <editor active="true" />
+    <frame x="433" y="23" width="1247" height="970" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21331196" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
