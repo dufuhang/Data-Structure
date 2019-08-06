@@ -12,7 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="881e6464-14bf-4a63-b13c-138d9d72a3f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/BinNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BinTree.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/BinNode.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding>
                 <element signature="e#70#82#0" expanded="true" />
                 <element signature="e#229#241#0" expanded="true" />
@@ -57,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinNode.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="16">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
               <folding>
                 <element signature="e#406#418#0" expanded="true" />
                 <element signature="e#1281#1295#0" expanded="true" />
@@ -73,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+            <state relative-caret-position="780">
+              <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
               <folding>
                 <element signature="e#70#82#0" expanded="true" />
                 <element signature="e#244#256#0" expanded="true" />
@@ -82,6 +83,10 @@
                 <element signature="e#447#459#0" expanded="true" />
                 <element signature="e#638#650#0" expanded="true" />
                 <element signature="e#1013#1025#0" expanded="true" />
+                <element signature="e#1451#1463#0" expanded="true" />
+                <element signature="e#1896#1908#0" expanded="true" />
+                <element signature="e#2157#2169#0" expanded="true" />
+                <element signature="e#2429#2441#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,10 +116,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BinNode.h" />
         <option value="$PROJECT_DIR$/BinNode.cpp" />
         <option value="$PROJECT_DIR$/BinTree.h" />
         <option value="$PROJECT_DIR$/BinTree.cpp" />
+        <option value="$PROJECT_DIR$/BinNode.h" />
       </list>
     </option>
   </component>
@@ -129,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="850" />
     <option name="width" value="830" />
     <option name="height" value="1050" />
@@ -191,15 +196,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564975812462</updated>
-      <workItem from="1564975815072" duration="13653000" />
+      <workItem from="1564975815072" duration="17661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13653000" />
+    <option name="totallyTimeSpent" value="17661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="846" y="0" width="834" height="1050" extended-state="6" />
+    <frame x="846" y="0" width="834" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.15947242" />
@@ -208,7 +214,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32925472" />
       <window_info anchor="bottom" id="Messages" weight="0.32740587" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -237,31 +243,6 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinNode.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#406#418#0" expanded="true" />
-            <element signature="e#1281#1295#0" expanded="true" />
-            <element signature="e#1342#1356#0" expanded="true" />
-            <element signature="e#1403#1417#0" expanded="true" />
-            <element signature="e#1464#1478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinNode.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="e#70#82#0" expanded="true" />
-            <element signature="e#229#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinTree.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -276,10 +257,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BinNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#70#82#0" expanded="true" />
+            <element signature="e#229#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+          <folding>
+            <element signature="e#406#418#0" expanded="true" />
+            <element signature="e#1281#1295#0" expanded="true" />
+            <element signature="e#1342#1356#0" expanded="true" />
+            <element signature="e#1403#1417#0" expanded="true" />
+            <element signature="e#1464#1478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BinTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        <state relative-caret-position="780">
+          <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
           <folding>
             <element signature="e#70#82#0" expanded="true" />
             <element signature="e#244#256#0" expanded="true" />
@@ -287,6 +293,10 @@
             <element signature="e#447#459#0" expanded="true" />
             <element signature="e#638#650#0" expanded="true" />
             <element signature="e#1013#1025#0" expanded="true" />
+            <element signature="e#1451#1463#0" expanded="true" />
+            <element signature="e#1896#1908#0" expanded="true" />
+            <element signature="e#2157#2169#0" expanded="true" />
+            <element signature="e#2429#2441#0" expanded="true" />
           </folding>
         </state>
       </provider>
