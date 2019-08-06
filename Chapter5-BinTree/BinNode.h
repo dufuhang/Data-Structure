@@ -6,14 +6,40 @@
 #define CHAPTER5_BINTREE_BINNODE_H
 
 //一些简化代码的宏
-#define BinNodePosi(T) BinNode<T>* //指针，节点位置
-#define stature(p) ((p) ? (p)-> height : -1)    //节点高度(与"空树高度为-1"的约定相统一)
-
 /*
  * 在BinNode模板类各接口以及后续相关算法的实现中，将频繁检查和判断二叉树节点的状态
  * 与性质，有时还需要定位与之相关的(兄弟、叔叔等)特定节点，为简化算法描述同时增强可读性
- * 在书118页，如有需要可进行参考和补充
 */
+#define BinNodePosi(T) BinNode<T>* //指针，节点位置
+#define stature(p) ((p) ? (p)-> height : -1)    //节点高度(与"空树高度为-1"的约定相统一)
+#define IsRoot(x) (!((x).parent))   //是否为根节点
+#define IsLChild(x) (!IsRoot(x) && (&(x) == (x).parent->lChild))    //是否为左孩子
+#define IsRChild(x) (!IsRoot(x) && (&(x) == (x).parent->rChild))    //是否为右孩子
+#define HasParent(x) (!(IsRoot(x)))
+#define HasLChild(x) (x.lChild)
+#define HasRChild(x) (x.rChild)
+#define HasChild(x) (HasLChild(x) || HasRChild(x))  //至少有一个孩子
+#define HasBothChild(x) (HasLChild(x) && HasRChild(x))  //同时有左右孩子
+#define IsLeaf(x) (!HasChild(x))
+//与BinNode具有特定关系的节点及指针
+#define sibling(p) (\
+    IsChild(*(p)) ? \
+    (p)->parent->rChild : \
+    (p)->parent->lChild \
+)   //兄弟
+
+#define uncle(x) (\
+    IsChild(*((x)->parent)) ? \
+    (x)->parent->parent-rChild : \
+    (x)->parent->parent->lChild \
+)   /叔叔
+//?
+#define FromParentTo(x) (\
+    IsRoot(x) ? _root : (\
+    IsLChild(x) ? (x).parent->lChild : (x).parent->rChild \
+    ) \
+)   //来自父亲的指针
+
 
 typedef enum { RB_RED, RB_BLACK} RBColor;   //节点颜色
 
