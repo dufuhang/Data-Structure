@@ -4,15 +4,9 @@
 CMakeFiles/Chapter4_Stack_Queue.dir/Application/Cell.cc.o: ../Application/Cell.cc
 CMakeFiles/Chapter4_Stack_Queue.dir/Application/Cell.cc.o: ../Application/Cell.h
 
-CMakeFiles/Chapter4_Stack_Queue.dir/Application/Queen.cc.o: /Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector/Vector.hpp
 CMakeFiles/Chapter4_Stack_Queue.dir/Application/Queen.cc.o: ../Application/Queen.cc
-CMakeFiles/Chapter4_Stack_Queue.dir/Application/Queen.cc.o: ../Application/Queen.h
-CMakeFiles/Chapter4_Stack_Queue.dir/Application/Queen.cc.o: ../Stack.h
 
-CMakeFiles/Chapter4_Stack_Queue.dir/Application/implementation.cc.o: /Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector/Vector.hpp
 CMakeFiles/Chapter4_Stack_Queue.dir/Application/implementation.cc.o: ../Application/implementation.cc
-CMakeFiles/Chapter4_Stack_Queue.dir/Application/implementation.cc.o: ../Application/implementation.h
-CMakeFiles/Chapter4_Stack_Queue.dir/Application/implementation.cc.o: ../Stack.h
 
 CMakeFiles/Chapter4_Stack_Queue.dir/Stack.cc.o: /Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector/Vector.hpp
 CMakeFiles/Chapter4_Stack_Queue.dir/Stack.cc.o: ../Stack.cc

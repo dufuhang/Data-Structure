@@ -12,7 +12,7 @@ class Queue : public List<T>
 {
 public:
     void enqueue(const T& e) { this->insertAslast(e); } //入队：尾部插入
-    T dequeue() { return this->remove(first()); }   //出队：首部删除
+    T dequeue() { return this->remove(this->first()); }   //出队：首部删除
     T& front() { return this->first()->data; }  //队首
 };
 

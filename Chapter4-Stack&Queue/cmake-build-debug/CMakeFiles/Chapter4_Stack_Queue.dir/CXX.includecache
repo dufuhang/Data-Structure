@@ -6,41 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector/Vector.hpp
-
 /Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/Cell.cc
 Cell.h
 /Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/Cell.h
 
 /Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/Cell.h
-
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/Queen.cc
-Queen.h
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/Queen.h
-../Stack.h
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Stack.h
-
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/Queen.h
-
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/implementation.cc
-implementation.h
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/implementation.h
-
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Application/implementation.h
-../Stack.h
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Stack.h
-
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Stack.cc
-Stack.h
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Stack.h
-
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/Stack.h
-stddef.h
--
-../Chapter2-Vector/Vector.hpp
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector/Vector.hpp
-
-/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/main.cpp
-iostream
--
 
