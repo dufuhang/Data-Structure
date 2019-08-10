@@ -132,8 +132,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Queue.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="323">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding>
                 <element signature="e#169#181#0" expanded="true" />
               </folding>
@@ -292,12 +292,12 @@
       <workItem from="1557319792593" duration="4932000" />
       <workItem from="1557369188617" duration="10496000" />
       <workItem from="1557636288199" duration="7580000" />
-      <workItem from="1565407524255" duration="260000" />
+      <workItem from="1565407524255" duration="525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23268000" />
+    <option name="totallyTimeSpent" value="23533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,10 +309,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="734" y="23" width="946" height="970" extended-state="0" />
-    <editor active="true" />
+    <frame x="870" y="0" width="810" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983315" visible="true" weight="0.21458773" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983315" visible="true" weight="0.10246914" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.11395101" />
       <window_info id="Favorites" order="2" sideWeight="0.5016685" side_tool="true" weight="0.32996207" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,7 +323,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.29477197" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.3214683" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32911393" />
@@ -436,8 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Queue.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="323">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
             <element signature="e#169#181#0" expanded="true" />
           </folding>
