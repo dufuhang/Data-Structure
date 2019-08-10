@@ -18,7 +18,7 @@ struct ListNode     //列表节点模版类(以双向列表形式实现)
   ListNodePosi(T) succ; //后继
 
   //构造函数
-  ListNode() = default; //针对header和trailer的构造
+  ListNode() {} //针对header和trailer的构造
   ListNode(T e, ListNodePosi(T) p = nullptr, ListNodePosi(T) s = nullptr) : data(e), pred(p), succ(s) {}  //默认构造器
 
   //接口

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/List.cc
+iostream
+-
+List.h
+/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/List.h
+
+/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/List.h
+ListNode.h
+/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/ListNode.h
+
+/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/ListNode.h
+
