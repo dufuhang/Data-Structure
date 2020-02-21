@@ -1,1 +1,1 @@
-/usr/bin/g++  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Chapter2_Vector.dir/main.cc.o  -o Chapter2_Vector 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Chapter2_Vector.dir/main.cc.o CMakeFiles/Chapter2_Vector.dir/Vector.cpp.o  -o Chapter2_Vector 

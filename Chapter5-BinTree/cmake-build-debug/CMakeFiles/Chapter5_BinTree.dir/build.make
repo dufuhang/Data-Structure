@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree
+CMAKE_SOURCE_DIR = /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Chapter5_BinTree.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/Chapter5_BinTree.dir/flags.make
 
 CMakeFiles/Chapter5_BinTree.dir/main.cpp.o: CMakeFiles/Chapter5_BinTree.dir/flags.make
 CMakeFiles/Chapter5_BinTree.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter5_BinTree.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter5_BinTree.dir/main.cpp.o -c /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter5_BinTree.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter5_BinTree.dir/main.cpp.o -c /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/main.cpp
 
 CMakeFiles/Chapter5_BinTree.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter5_BinTree.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/main.cpp > CMakeFiles/Chapter5_BinTree.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/main.cpp > CMakeFiles/Chapter5_BinTree.dir/main.cpp.i
 
 CMakeFiles/Chapter5_BinTree.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter5_BinTree.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/main.cpp -o CMakeFiles/Chapter5_BinTree.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/main.cpp -o CMakeFiles/Chapter5_BinTree.dir/main.cpp.s
 
 CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.o: CMakeFiles/Chapter5_BinTree.dir/flags.make
 CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.o: ../BinNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.o -c /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/BinNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.o -c /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/BinNode.cpp
 
 CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/BinNode.cpp > CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/BinNode.cpp > CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.i
 
 CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/BinNode.cpp -o CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/BinNode.cpp -o CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.s
 
 CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.o: CMakeFiles/Chapter5_BinTree.dir/flags.make
 CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.o: ../BinTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.o -c /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/BinTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.o -c /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/BinTree.cpp
 
 CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/BinTree.cpp > CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/BinTree.cpp > CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.i
 
 CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/BinTree.cpp -o CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/BinTree.cpp -o CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.s
 
 # Object files for target Chapter5_BinTree
 Chapter5_BinTree_OBJECTS = \
@@ -110,7 +110,7 @@ Chapter5_BinTree: CMakeFiles/Chapter5_BinTree.dir/BinNode.cpp.o
 Chapter5_BinTree: CMakeFiles/Chapter5_BinTree.dir/BinTree.cpp.o
 Chapter5_BinTree: CMakeFiles/Chapter5_BinTree.dir/build.make
 Chapter5_BinTree: CMakeFiles/Chapter5_BinTree.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Chapter5_BinTree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Chapter5_BinTree"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter5_BinTree.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/Chapter5_BinTree.dir/clean:
 .PHONY : CMakeFiles/Chapter5_BinTree.dir/clean
 
 CMakeFiles/Chapter5_BinTree.dir/depend:
-	cd /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug /Users/dufuhang/Desktop/数据结构/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles/Chapter5_BinTree.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter5-BinTree/cmake-build-debug/CMakeFiles/Chapter5_BinTree.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Chapter5_BinTree.dir/depend
 

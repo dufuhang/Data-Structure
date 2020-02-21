@@ -8,7 +8,7 @@ CMakeFiles/Chapter4_Stack_Queue.dir/Application/Queen.cc.o: ../Application/Queen
 
 CMakeFiles/Chapter4_Stack_Queue.dir/Application/implementation.cc.o: ../Application/implementation.cc
 
-CMakeFiles/Chapter4_Stack_Queue.dir/Stack.cc.o: /Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector/Vector.hpp
+CMakeFiles/Chapter4_Stack_Queue.dir/Stack.cc.o: /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter2-Vector/Vector.hpp
 CMakeFiles/Chapter4_Stack_Queue.dir/Stack.cc.o: ../Stack.cc
 CMakeFiles/Chapter4_Stack_Queue.dir/Stack.cc.o: ../Stack.h
 

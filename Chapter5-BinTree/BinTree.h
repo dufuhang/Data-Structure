@@ -16,6 +16,7 @@ protected:
     //虚方法。不同种类的树，高度的定义不一样，定义为虚方法，便于派生类在必要时重写(override)
     virtual int updateHeight(BinNodePosi(T) x);    //更新节点x
     void updateHeightAbove(BinNodePosi(T) x);    //更新节点x及其祖先的高度
+
 public:
     BinTree() : _size(0), _root(nullptr) { }    //构造函数
     ~BinTree() { if (0 < _size) remove(_root); }    //析构函数

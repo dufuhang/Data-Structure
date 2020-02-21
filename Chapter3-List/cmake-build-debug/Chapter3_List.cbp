@@ -8,94 +8,94 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug"/>
+				<Option working_dir="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug"/>
+				<Option working_dir="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug"/>
+				<Option working_dir="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Chapter3_List">
-				<Option output="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Chapter3_List" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug"/>
+				<Option output="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Chapter3_List" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter3_List"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter3_List"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Chapter3_List/fast">
-				<Option output="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Chapter3_List" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug"/>
+				<Option output="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Chapter3_List" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter3_List/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter3_List/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/List.cc">
+		<Unit filename="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/List.cc">
 			<Option target="Chapter3_List"/>
 		</Unit>
-		<Unit filename="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/List.h">
+		<Unit filename="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/List.h">
 			<Option target="Chapter3_List"/>
 		</Unit>
-		<Unit filename="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/ListNode.cc">
+		<Unit filename="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/ListNode.cc">
 			<Option target="Chapter3_List"/>
 		</Unit>
-		<Unit filename="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/ListNode.h">
+		<Unit filename="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/ListNode.h">
 			<Option target="Chapter3_List"/>
 		</Unit>
-		<Unit filename="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/main.cpp">
+		<Unit filename="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/main.cpp">
 			<Option target="Chapter3_List"/>
 		</Unit>
-		<Unit filename="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter3-List/CMakeLists.txt">
+		<Unit filename="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter3-List/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

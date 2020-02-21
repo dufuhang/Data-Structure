@@ -1,4 +1,4 @@
-# Install script for directory: /Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector
+# Install script for directory: /Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter2-Vector
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/dufuhang/Desktop/数据结构/代码实现/Chapter2-Vector/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter2-Vector/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

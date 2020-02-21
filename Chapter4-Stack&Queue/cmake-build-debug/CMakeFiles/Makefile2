@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue"
+CMAKE_SOURCE_DIR = "/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter4-Stack&Queue"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter4-Stack&Queue/cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/Chapter4_Stack_Queue.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = "/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-S
 CMakeFiles/Chapter4_Stack_Queue.dir/all:
 	$(MAKE) -f CMakeFiles/Chapter4_Stack_Queue.dir/build.make CMakeFiles/Chapter4_Stack_Queue.dir/depend
 	$(MAKE) -f CMakeFiles/Chapter4_Stack_Queue.dir/build.make CMakeFiles/Chapter4_Stack_Queue.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target Chapter4_Stack_Queue"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter4-Stack&Queue/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target Chapter4_Stack_Queue"
 .PHONY : CMakeFiles/Chapter4_Stack_Queue.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/Chapter4_Stack_Queue.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Chapter4_Stack_Queue.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/cmake-build-debug/CMakeFiles" 6
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter4-Stack&Queue/cmake-build-debug/CMakeFiles" 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Chapter4_Stack_Queue.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/dufuhang/Desktop/数据结构/代码实现/Chapter4-Stack&Queue/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/dufuhang/Desktop/数据结构/邓俊辉-数据结构课/代码实现/Chapter4-Stack&Queue/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Chapter4_Stack_Queue.dir/rule
 
 # Convenience name for target.
